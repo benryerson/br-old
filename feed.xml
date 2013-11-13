@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>BenRyerson.com</title>
+		<link>http://www.benryerson.com</link>
+		<description>A place where you can learn just how awesome Ben is.</description>
+		<item>
+		<title>Available for work.</title>
+		<link>http://www.benryerson.com</link>
+		<description>If anyone needs some freelance front-end web work, I'm all about it. Hit me up!</description>
+		</item>
+	</channel>
+</rss>
